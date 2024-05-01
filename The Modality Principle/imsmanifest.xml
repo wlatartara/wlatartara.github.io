@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_5VwamtJygv6" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>CAM 1.3</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="The_Modality_Principle_ORG">
+    <organization identifier="The_Modality_Principle_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>The Modality Principle</title>
+      <item identifier="The_Modality_Principle_SCO" identifierref="__5VwamtJygv6_RES" isvisible="true">
+        <title>The Modality Principle</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5VwamtJygv6_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ePIRKykGSi_RG_P_0_106_2048_1151.jpg" />
+      <file href="story_content/6681dDYx6by_44100_48_0.mp3" />
+      <file href="mobile/6DyIzhCxzuW_RG_P_0_109_2048_1151.jpg" />
+      <file href="story_content/5bUCxr4aDfs_44100_48_0.mp3" />
+      <file href="mobile/6UL2WxjiwP4_RG_P_0_70_2048_1164.jpg" />
+      <file href="story_content/5lcbiGRPJVT_44100_48_0.mp3" />
+      <file href="mobile/5a4LGq6SGUZ_RG_P_-12_191_2069_1196.jpg" />
+      <file href="story_content/5hRmvUC6ENd_44100_48_0.mp3" />
+      <file href="mobile/6b9G6bbzmx6_RG.jpg" />
+      <file href="story_content/5syEr540jfa_44100_48_0.mp3" />
+      <file href="story_content/5lwWcs6hA0w_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bqwLGB6wEo.js" />
+      <file href="html5/data/js/5jxuPx1AZjZ.js" />
+      <file href="html5/data/js/5WAtH3OateX.js" />
+      <file href="html5/data/js/5ZWhSThTJrW.js" />
+      <file href="html5/data/js/6gkC0c52hwC.js" />
+      <file href="html5/data/js/6iNdLkjDUac.js" />
+      <file href="html5/data/js/6SbK4E2W3Br.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
